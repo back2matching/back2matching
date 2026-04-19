@@ -18,14 +18,6 @@
 ---
 
 ```
-$ cat ~/.stack
-```
-
-```
-Python       ████████████          59%
-TypeScript   █████░░░░░░░░░░░░░░░  27%
-JavaScript   ██░░░░░░░░░░░░░░░░░░   8%
-
 + React · Next.js · Node · Tailwind · Supabase · Redis · Docker · Solidity
 ```
 
