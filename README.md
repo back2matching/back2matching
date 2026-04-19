@@ -16,10 +16,8 @@
 </div>
 
 ---
-
-```
 + React · Next.js · Node · Tailwind · Supabase · Redis · Docker · Solidity
-```
+
 
 #### `> now`
 
