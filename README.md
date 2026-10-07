@@ -1,48 +1,33 @@
-<div align="center">
+[![matching.work - Design, AI systems, experiments and security research](assets/matching-work.png)](https://matching.work)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&repeat=true&width=700&height=70&lines=back2matching" alt="back2matching" />
+## Security research. Systems thinking. A design background.
 
-<br/>
+I'm Sean, also known as **back2matching**. I investigate trust boundaries in smart contracts, AI tools and software supply chains. I build the tooling to test an idea, reproduce a result and explain what it means.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=1000&color=8B8B95&center=true&vCenter=true&repeat=true&width=480&height=25&lines=AI+agents+%C2%B7+real-time+systems+%C2%B7+Web3;probably+mass+tabs+open+rn;code.+ship.+repeat." alt="" />
+My work spans security research, AI systems and experimental software, with the same attention to how a system works and how people understand it.
 
-<br/><br/>
+[Portfolio](https://matching.work) · [Research & experiments](https://matching.work/experiments) · [Email](mailto:matching@matching.work) · [X](https://x.com/Back2Matching)
 
-<a href="https://matching.work"><img src="https://img.shields.io/badge/matching.work-F59E0B?style=flat-square&logo=googlechrome&logoColor=09090B" /></a>&nbsp;
-<a href="https://x.com/Back2Matching"><img src="https://img.shields.io/badge/@Back2Matching-F59E0B?style=flat-square&logo=x&logoColor=09090B" /></a>&nbsp;
-<a href="https://t.me/Back2Matching"><img src="https://img.shields.io/badge/Telegram-F59E0B?style=flat-square&logo=telegram&logoColor=09090B" /></a>&nbsp;
-<a href="mailto:matching@matching.work"><img src="https://img.shields.io/badge/Email-F59E0B?style=flat-square&logo=gmail&logoColor=09090B" /></a>
+### Selected research
 
-</div>
+| Area | Published work |
+| :--- | :--- |
+| Smart-contract security | [The empty boss chair](https://matching.work/experiments/first-opener-class-story): how first-caller setup can assign permanent privileged control. |
+| AI & agent security | [The MCP trust boundary includes the schema](https://matching.work/experiments/mcp-schema-excessive-agency): why an honest tool description can still hide excessive capability. |
+| Software supply chains | [What runs when you load a model](https://matching.work/experiments/ml-model-file-supply-chain-scanners): model formats, deserialization and defensive scanner testing. |
 
----
-+ React · Next.js · Node · Tailwind · Supabase · Redis · Docker · Solidity
+### Tools & experiments
 
+- **[TurboQuant](https://github.com/back2matching/turboquant)**: KV cache compression for LLM inference, with [consumer-GPU benchmarks](https://matching.work/experiments/turboquant-benchmarks).
+- **[KV Cache Bench](https://github.com/back2matching/kvcache-bench)**: compare compression methods on your own hardware.
+- **[matching.work](https://matching.work)**: the ongoing collection of research, product work and design experiments.
 
-#### `> now`
+### Approach
 
-- **FlockRun** · AI agent runtime, getting them to actually cooperate
-- **cigoL** · reverse logic engine, thinks backwards on purpose
-- **[matching.work](https://matching.work)** · the portfolio, next.js + gsap, full brutalist
+Start with the trust boundary. Test the assumptions. Keep findings reproducible and limitations visible. Turn the result into something useful, whether that's a regression test, a research note or a considered interface.
 
----
-
-<div align="center">
-
-<a href="https://github.com/back2matching">
-  <img height="180" src="https://streak-stats.demolab.com?user=back2matching&theme=dark&hide_border=true&background=09090B&ring=F59E0B&fire=F59E0B&currStreakNum=F59E0B&sideNums=A1A1AA&currStreakLabel=F59E0B&sideLabels=A1A1AA&dates=52525B&stroke=2A2A32" alt="Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/back2matching">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=back2matching&bg_color=09090B&color=A1A1AA&line=F59E0B&point=F59E0B&area=true&area_color=F59E0B&hide_border=true&custom_title=Contribution%20Graph&title_color=F59E0B&radius=0" alt="Activity Graph" />
-</a>
-
-</div>
+Python, TypeScript and Solidity. Foundry, fuzzing and invariant testing. React, Next.js and systems design.
 
 ---
 
-<p align="center">
-  <sub>code. ship. repeat.</sub>
-</p>
+For research collaboration or product work: **[matching@matching.work](mailto:matching@matching.work)**.
