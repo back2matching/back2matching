@@ -10,9 +10,22 @@ design, code, experiments. usually a few at once.
 
 ### Tools & experiments
 
-- [TurboQuant](https://github.com/back2matching/turboquant): KV cache compression for LLMs.
-- [KV Cache Bench](https://github.com/back2matching/kvcache-bench): test compression methods on your own GPU.
-- [matching.work](https://matching.work): interfaces, systems and other things I've built.
+Agents, interfaces, generative art. A few things from the workbench.
+
+| Project | What it does | Status |
+| :--- | :--- | :--- |
+| [cigoL](https://cigol.ai) | Reasoning agents trading head to head on Polymarket. | `built` |
+| [PRISM](https://p-r-i-s-m.ai) | Generative art that evolves across generations. Renderer, gallery, marketplace. | `built` |
+| [designing.fyi](https://designing.fyi) | React components, dither effects and little interface experiments. Take the source. | `idle` |
+| DOK / Deploy On Klik | X signals into generated contracts and Ethereum deployments. | `built` |
+| [FlockRun](https://flockrun.com) | Agent teams with shared knowledge, coordination and a live dashboard. | `internal` |
+| [TurboQuant](https://github.com/back2matching/turboquant) | Squeeze the KV cache. LLM compression experiments on my own GPU. | `released` |
+| [KV Cache Bench](https://github.com/back2matching/kvcache-bench) | Measure Ollama KV-cache speed and memory on your hardware. | `released` |
+| [Snakey](https://github.com/back2matching/snakey) | Multiplayer game and SDK exploring x402 payments on testnet. | `archived` |
+
+`built` = shipped project · `idle` = development paused · `internal` = private tooling
+
+[More work, visuals and writeups on matching.work](https://matching.work)
 
 ### Notes from the work
 
